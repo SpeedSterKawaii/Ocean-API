@@ -27,7 +27,31 @@ Welcome to **Oceanic Softworks** (*By* **Speed Softwares**), We provide the best
 - Place OceanAPI(.dll) inside of the "OceanAPI" (folder).
 **(If you already created a new exploit-project, follow this):**
 - Add the API into Project References (Inside of Explorer).
-- Call this namespace: 
+- Call this namespace (top of form exploit code): 
 ```csharp 
-using OceanAPI;
+using OceanAPI; //.net framework only
+```
+- After that, type this API class name (with Init):
+```csharp
+OceanAPI Ocean = new OceanAPI(); //Ocean is to-call variable
+```
+- *Ocean* is your var name (call it to anything, ex: oc_API).
+- These are the available functions you can use [if wanted].
+```csharp
+//basic functions
+Ocean.Attach(); //attaches the exploit
+Ocean.Execute(); //execute script to game
+Ocean.CloseRoblox(); //close roblox process
+Ocean.DownloadDLL(); //downloads new update
+
+//true&false (bool)
+Ocean.DLLAttached = true; //is exploit attached?
+Ocean.IsRobloxOpen = true; //if roblox is open?
+Ocean.DLLExists = true; //dll in root directory?
+
+//additonal functions (OceanAPI+) (more info DM me)
+Ocean.ExecuteC(); //send in Lua C format
+Ocean.CreateFolders(); //make inside-of directories.
+Ocean.ExecuteLBI(); //switch between lbi
+Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 ```
