@@ -8,22 +8,26 @@ Welcome to **Oceanic Softworks** (*By* **Speed Softwares**), We provide the best
 # *Questions & Answers?*
 - *Is there an API avaliable?*
 - **Yes, you can direct Install it through our website.**
-- 
 - *What OS are supported?*
 - **Windows 10 (all) and Windows 8 (all).**
-- 
 - *I don't trust Ocean!*
 - **Then try to trust, Ocean has NO virus.**
-- 
 - *Does it work on Windows 7?*
 - **It is fully unsupported on Windows 7.**
-- 
 - *Freezes/lags on Installing libraries?*
 - **Internet is Slow or Trouble with New Libraries.**
--
 - *Are their more languages supported?*
 - **German, Russian, Spanish, Japanese, English & Filipino.**
--
-- *Does it work on Windows 7?*
-- **It is fully unsupported on Windows 7.**
-- 
+- *Why does it show weird symbol(s)?*
+- **Your OS is missing ex: Emojis, or Fonts.**
+
+# *How to use OceanAPI?*
+- Download/Install it from our Official Website.
+- Create a new Folder (C:/Downloads) called "OceanAPI".
+- Place OceanAPI(.dll) inside of the "OceanAPI" (folder).
+**(If you already created a new exploit-project, follow this):**
+- Add the API into Project References (Inside of Explorer).
+- Call this namespace: 
+```csharp 
+using OceanAPI;
+```
