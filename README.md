@@ -75,3 +75,5 @@ Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 - **Click 'Create Account', It will ask you for logging inside of Ocean.**
 - **Login by typing your user and paswsword. You MUST remember your Password.**
 - **Enjoy, exploiting with pleasure. You relax, while we handle your job.**
+
+**If you have any more questions, Please DM me on Discord: SpeedSterKawaii#7758, or if you have any issues, or like to suggest an update or upgrade, Message me on that account. If I do not respond, join the discord server (i'll surely see you their). Thank you for choosing Oceanic-Softworks.**
