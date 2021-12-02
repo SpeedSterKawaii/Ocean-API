@@ -55,3 +55,9 @@ Ocean.CreateFolders(); //make inside-of directories.
 Ocean.ExecuteLBI(); //switch between lbi
 Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 ```
+# *Ocean Requirements?*
+- **Computer with 4GB(+) of RAM.**
+- **Intel Core i5(+) or more.**
+- **100+ MB of Download Speed.**
+- **Must be Computer/PC (no Laptop).**
+(Failing to meet all of the requirements will run Ocean at a Poor Speed).
