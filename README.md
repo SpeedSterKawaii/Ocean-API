@@ -60,4 +60,10 @@ Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 - **Intel Core i5(+) or more.**
 - **100+ MB of Download Speed.**
 - **Must be Computer/PC (no Laptop).**
-(Failing to meet all of the requirements will run Ocean at a Poor Speed).
+- (Failing to meet all of the requirements will run Ocean at a Poor Speed).
+
+# *What do we keep? (data)*
+- **NOTE: NONE OF SPEED SOFTWARE(s) or ANYONE CAN'T SEE YOUR DATA.**
+- **HWID (Hardware Identification)**
+- **Ocean Personal Account Data (OPAD)**
+- **Date and Time of your Computer.**
