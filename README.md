@@ -18,3 +18,12 @@ Welcome to **Oceanic Softworks** (*By* **Speed Softwares**), We provide the best
 - *Does it work on Windows 7?*
 - **It is fully unsupported on Windows 7.**
 - 
+- *Freezes/lags on Installing libraries?*
+- **Internet is Slow or Trouble with New Libraries.**
+-
+- *Are their more languages supported?*
+- **German, Russian, Spanish, Japanese, English & Filipino.**
+-
+- *Does it work on Windows 7?*
+- **It is fully unsupported on Windows 7.**
+- 
