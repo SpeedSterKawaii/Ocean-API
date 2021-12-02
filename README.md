@@ -67,3 +67,15 @@ Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 - **HWID (Hardware Identification)**
 - **Ocean Personal Account Data (OPAD)**
 - **Date and Time of your Computer.**
+
+# *How to create an Ocean Account?*
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
+- ****
