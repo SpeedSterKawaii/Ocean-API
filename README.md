@@ -69,13 +69,9 @@ Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 - **Date and Time of your Computer.**
 
 # *How to create an Ocean Account?*
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
-- ****
+- **When you first Install Ocean (Exploit), You will get an Account Prompt.**
+- **Type your User, Pass and etc. (Ask what the Prompt tells you to do).**
+- **Agree to the Policy, Please Read Carefully before Clicking "Agree".**
+- **Click 'Create Account', It will ask you for logging inside of Ocean.**
+- **Login by typing your user and paswsword. You MUST remember your Password.**
+- **Enjoy, exploiting with pleasure. You relax, while we handle your job.**
