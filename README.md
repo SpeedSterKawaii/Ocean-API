@@ -76,4 +76,4 @@ Ocean.ExecuteWRP(); //or between wrapper (powered by axon (credits to him))
 - **Login by typing your user and paswsword. You MUST remember your Password.**
 - **Enjoy, exploiting with pleasure. You relax, while we handle your job.**
 
-**If you have any more questions, Please DM me on Discord: SpeedSterKawaii#7758, or if you have any issues, or like to suggest an update or upgrade, Message me on that account. If I do not respond, join the discord server.**
+**If you have any more questions, Please DM me on Discord: SpeedSterKawaii#7758, or if you have any issues, or like to suggest an update or upgrade, Message me on that account. If I do not respond, join the discord server. You may ask a developer any questions.**
